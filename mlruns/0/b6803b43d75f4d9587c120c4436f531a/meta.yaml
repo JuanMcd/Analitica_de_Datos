@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b6803b43d75f4d9587c120c4436f531a/artifacts
+end_time: 1715040788087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b6803b43d75f4d9587c120c4436f531a
+run_name: DecisionTreeClassifier_delantero
+run_uuid: b6803b43d75f4d9587c120c4436f531a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040781843
+status: 3
+tags: []
+user_id: juanm

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/616e1a199d7c414890ffea85d37ee3b4/artifacts
+end_time: 1715040803842
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 616e1a199d7c414890ffea85d37ee3b4
+run_name: DecisionTreeClassifier_mediocampista
+run_uuid: 616e1a199d7c414890ffea85d37ee3b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040800881
+status: 3
+tags: []
+user_id: juanm

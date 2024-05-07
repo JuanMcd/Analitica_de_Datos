@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/972ed28624e84e3386b7b2254ed5d1fe/artifacts
+end_time: 1715040842514
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 972ed28624e84e3386b7b2254ed5d1fe
+run_name: SGDClassifier_arquero
+run_uuid: 972ed28624e84e3386b7b2254ed5d1fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040839343
+status: 3
+tags: []
+user_id: juanm

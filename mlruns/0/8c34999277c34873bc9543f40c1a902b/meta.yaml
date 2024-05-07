@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8c34999277c34873bc9543f40c1a902b/artifacts
+end_time: 1715040800848
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c34999277c34873bc9543f40c1a902b
+run_name: RandomForestClassifier_delantero
+run_uuid: 8c34999277c34873bc9543f40c1a902b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040797409
+status: 3
+tags: []
+user_id: juanm

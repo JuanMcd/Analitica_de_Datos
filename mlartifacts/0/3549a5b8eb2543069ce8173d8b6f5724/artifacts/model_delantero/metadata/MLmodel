@@ -1,0 +1,20 @@
+artifact_path: model_delantero
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.11.3
+model_size_bytes: 1218
+model_uuid: b917f553c37b4d6fb2fc0d9e1f3c9a64
+run_id: 3549a5b8eb2543069ce8173d8b6f5724
+utc_time_created: '2024-05-07 00:13:11.299116'

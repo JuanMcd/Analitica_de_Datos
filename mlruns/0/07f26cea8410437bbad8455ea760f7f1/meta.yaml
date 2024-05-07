@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/07f26cea8410437bbad8455ea760f7f1/artifacts
+end_time: 1715040828992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07f26cea8410437bbad8455ea760f7f1
+run_name: svm_defensa
+run_uuid: 07f26cea8410437bbad8455ea760f7f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040825845
+status: 3
+tags: []
+user_id: juanm

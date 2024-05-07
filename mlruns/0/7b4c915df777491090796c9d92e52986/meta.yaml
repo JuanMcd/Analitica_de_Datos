@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7b4c915df777491090796c9d92e52986/artifacts
+end_time: 1715040835998
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b4c915df777491090796c9d92e52986
+run_name: DecisionTreeClassifier_arquero
+run_uuid: 7b4c915df777491090796c9d92e52986
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040832265
+status: 3
+tags: []
+user_id: juanm

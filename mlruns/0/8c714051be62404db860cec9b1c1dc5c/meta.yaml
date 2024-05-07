@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/8c714051be62404db860cec9b1c1dc5c/artifacts
+end_time: 1715040816492
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8c714051be62404db860cec9b1c1dc5c
+run_name: RandomForestClassifier_mediocampista
+run_uuid: 8c714051be62404db860cec9b1c1dc5c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040813292
+status: 3
+tags: []
+user_id: juanm

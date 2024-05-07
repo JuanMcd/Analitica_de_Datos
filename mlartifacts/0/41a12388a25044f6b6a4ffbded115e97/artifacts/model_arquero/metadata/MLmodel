@@ -1,0 +1,20 @@
+artifact_path: model_arquero
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.11.3
+model_size_bytes: 3744
+model_uuid: 8301f30021d0480d806a05f2c1bbd48e
+run_id: 41a12388a25044f6b6a4ffbded115e97
+utc_time_created: '2024-05-07 00:14:02.639332'

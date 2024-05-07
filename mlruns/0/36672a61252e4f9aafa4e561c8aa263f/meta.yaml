@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/36672a61252e4f9aafa4e561c8aa263f/artifacts
+end_time: 1715039531418
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36672a61252e4f9aafa4e561c8aa263f
+run_name: MLPClassifier
+run_uuid: 36672a61252e4f9aafa4e561c8aa263f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715039526622
+status: 3
+tags: []
+user_id: juanm

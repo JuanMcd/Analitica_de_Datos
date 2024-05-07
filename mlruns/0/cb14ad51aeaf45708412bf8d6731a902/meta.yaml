@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cb14ad51aeaf45708412bf8d6731a902/artifacts
+end_time: 1715040797396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cb14ad51aeaf45708412bf8d6731a902
+run_name: svm_delantero
+run_uuid: cb14ad51aeaf45708412bf8d6731a902
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040794267
+status: 3
+tags: []
+user_id: juanm

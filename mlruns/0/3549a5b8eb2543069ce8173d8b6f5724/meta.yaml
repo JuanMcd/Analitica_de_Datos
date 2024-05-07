@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/3549a5b8eb2543069ce8173d8b6f5724/artifacts
+end_time: 1715040794251
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3549a5b8eb2543069ce8173d8b6f5724
+run_name: SGDClassifier_delantero
+run_uuid: 3549a5b8eb2543069ce8173d8b6f5724
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040791209
+status: 3
+tags: []
+user_id: juanm

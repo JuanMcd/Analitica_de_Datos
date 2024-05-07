@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/65b4c4ad1e8b4b86a12e284e2f2956a7/artifacts
+end_time: 1715040849264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65b4c4ad1e8b4b86a12e284e2f2956a7
+run_name: RandomForestClassifier_arquero
+run_uuid: 65b4c4ad1e8b4b86a12e284e2f2956a7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040845720
+status: 3
+tags: []
+user_id: juanm

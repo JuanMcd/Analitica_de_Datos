@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/86381da0be3d459d86a8fc157d08cc6c/artifacts
+end_time: 1715040791189
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86381da0be3d459d86a8fc157d08cc6c
+run_name: KNeighborsClassifier_delantero
+run_uuid: 86381da0be3d459d86a8fc157d08cc6c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040788105
+status: 3
+tags: []
+user_id: juanm

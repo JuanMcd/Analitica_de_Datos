@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/faffa437c95544b7a7c038d8eff11885/artifacts
+end_time: 1715039526589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faffa437c95544b7a7c038d8eff11885
+run_name: DecisionTreeClassifier
+run_uuid: faffa437c95544b7a7c038d8eff11885
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715039517441
+status: 3
+tags: []
+user_id: juanm

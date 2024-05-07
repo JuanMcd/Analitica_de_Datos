@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/41a12388a25044f6b6a4ffbded115e97/artifacts
+end_time: 1715040845703
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 41a12388a25044f6b6a4ffbded115e97
+run_name: svm_arquero
+run_uuid: 41a12388a25044f6b6a4ffbded115e97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1715040842534
+status: 3
+tags: []
+user_id: juanm
