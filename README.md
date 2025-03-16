@@ -82,18 +82,18 @@ Cada modelo se entrena con datos de features_*.npy y labels_*.npy.
 📁 Estructura del Proyecto
 
 /
-├── Analitica.py          # Script principal con visualización Streamlit
-├── modelado.py           # Entrenamiento de modelos de clasificación
-├── requirements.txt      # Dependencias del proyecto
-├── Descripcion_Analitica.ipynb # Análisis exploratorio en Jupyter Notebook
-├── features_arquero.npy  # Features para arqueros
-├── features_defensa.npy  # Features para defensas
-├── features_delantero.npy # Features para delanteros
-├── features_mediocampista.npy # Features para mediocampistas
-├── labels_arquero.npy    # Etiquetas para arqueros
-├── labels_defensa.npy    # Etiquetas para defensas
-├── labels_delantero.npy  # Etiquetas para delanteros
-├── labels_mediocampista.npy # Etiquetas para mediocampistas
+├── Analitica.py          # Script principal con visualización Streamlit /
+├── modelado.py           # Entrenamiento de modelos de clasificación /
+├── requirements.txt      # Dependencias del proyecto /
+├── Descripcion_Analitica.ipynb # Análisis exploratorio en Jupyter Notebook /
+├── features_arquero.npy  # Features para arqueros /
+├── features_defensa.npy  # Features para defensas /
+├── features_delantero.npy # Features para delanteros /
+├── features_mediocampista.npy # Features para mediocampistas /
+├── labels_arquero.npy    # Etiquetas para arqueros /
+├── labels_defensa.npy    # Etiquetas para defensas /
+├── labels_delantero.npy  # Etiquetas para delanteros /
+├── labels_mediocampista.npy # Etiquetas para mediocampistas /
 
 📢 Contribuciones
 
@@ -101,4 +101,4 @@ Si deseas contribuir, abre un issue o haz un pull request con mejoras.
 
 📌 Autor
 
-Proyecto desarrollado por [Tu Nombre].
+Proyecto desarrollado por Juan Manuel Calvo Duque.
